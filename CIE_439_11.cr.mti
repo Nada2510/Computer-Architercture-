@@ -1,0 +1,4 @@
+G:/altera/testbench.sv {1 {vlog -work work -sv {G:\altera\testbench.sv}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}}
